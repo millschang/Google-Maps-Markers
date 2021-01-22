@@ -30,6 +30,7 @@ https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/m
 | color | red, black, blue, green, grey, orange, purple, white, yellow |
 | character | A-Z, 1-100, !, @, $, +, -, =, (%23 = #), (%25 = %), (%26 = &), (blank = &bull;) |
 
+
 ## <a name="examples"></a>Examples
 | Old | New |
 | --- | --- |
@@ -41,3 +42,15 @@ https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/m
 | N/A | ![New Blue #](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_blue%23.png) |
 | N/A | ![New Yellow +](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_yellow+.png) |
 | N/A | ![New Black Z](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_blackZ.png) |
+
+## From Google API
+https://mt.google.com/vt/icon?psize=20&font=fonts/Roboto-Regular.ttf&color=ff330000&name=icons/spotlight/spotlight-waypoint-a.png&ax=44&ay=48&scale=1&text=%E2%80%A2
+
+- You can change the values in the URL to change the size/color of the icon and size/color/font/position of the text. In the example above, %E2%80%A2 corresponds to • (`&bull;`)
+- Color: text color (ARGB)
+- Red: icons/spotlight/spotlight-waypoint-b.png
+- Blue: icons/spotlight/spotlight-waypoint-blue.png
+- Green: icons/spotlight/spotlight-waypoint-a.png
+- Purple: icons/spotlight/spotlight-ad.png
+
+- ref: https://stackoverflow.com/questions/17746740/google-map-icons-with-visualrefresh?answertab=votes#tab-top
